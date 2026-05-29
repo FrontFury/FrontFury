@@ -66,14 +66,24 @@
 <section class="github-analytics">
   <h2>📊 GitHub Analytics</h2>
 
-  <div class="stats-grid">
+  <div align="center" class="stats-grid">
     <a href="https://github.com/FrontFury">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrontFury&theme=tokyonight" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrontFury&theme=tokyonight" />
     </a>
+    <a href="https://github.com/FrontFury">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrontFury&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/FrontFury">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrontFury&theme=tokyonight" />
+</a>
   </div>
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrontFury&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF9E64&currStreakLabel=70A5FD" />
+</p>
 
-
-
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2bd2b147-6b82-4f24-9ddd-5b308a857df4" /> &nbsp;Contribution Pulse
   <div class="activity-graph">
     <a href="https://github.com/FrontFury">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrontFury&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=bf91f3&hide_border=true" />
@@ -81,4 +91,12 @@
   </div>
 </section>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontfury&" alt="frontfury" /></p>
+<div>
+
+## 💭 &nbsp; Thought of the Day
+
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+

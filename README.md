@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/FrontFury">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrontFury&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF9E64&currStreakLabel=70A5FD" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=FrontFury&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF9E64&currStreakLabel=70A5FD" alt="GitHub Streak" />
   </a>
 </p>
 

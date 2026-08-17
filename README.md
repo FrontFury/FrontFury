@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/FrontFury">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=FrontFury&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF9E64&currStreakLabel=70A5FD" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrontFury&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/FrontFury">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrontFury&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=bf91f3&hide_border=true" alt="Contribution Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrontFury&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   </a>
 </p>
 
